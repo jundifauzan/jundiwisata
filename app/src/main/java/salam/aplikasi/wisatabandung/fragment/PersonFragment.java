@@ -20,7 +20,7 @@ public class PersonFragment extends Fragment {
         View vi = inflater.inflate(R.layout.fragment_person, container, false);
 
         ImageView img = vi.findViewById(R.id.imgAvatar);
-        img.setImageResource(R.drawable.profil);
+        img.setImageResource(R.drawable.dirijundi);
 
 
         return  vi;

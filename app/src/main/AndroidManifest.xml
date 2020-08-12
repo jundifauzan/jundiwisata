@@ -41,5 +41,7 @@
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden|adjustResize" />
     </application>
+    <!--NIM  :10117248-->
+    <!--NAMA :Muhamad Jundi Fauzan-->
 
 </manifest>

@@ -78,19 +78,19 @@
         <mehdi.sakout.fancybuttons.FancyButton
             android:id="@+id/btnDirection"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="96dp"
+            android:layout_marginRight="5dp"
             android:paddingLeft="20dp"
             android:paddingTop="10dp"
             android:paddingRight="20dp"
             android:paddingBottom="10dp"
             fancy:fb_borderColor="#FF9800"
             fancy:fb_borderWidth="1dp"
-            android:layout_marginRight="5dp"
             fancy:fb_defaultColor="@color/Transparent"
             fancy:fb_focusColor="#FF9800"
             fancy:fb_fontIconResource="&#xf277;"
             fancy:fb_iconPosition="left"
-            fancy:fb_text="Navigasi"
+            fancy:fb_text="LOKASI WISATA"
             fancy:fb_textColor="@android:color/black" />
 
     </LinearLayout>

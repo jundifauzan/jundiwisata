@@ -1,6 +1,30 @@
 {
   "destination": [
     {
+      "name": "Floating Market Lembang",
+      "location": "Jl. Grand Hotel No.33E, Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",
+      "description": "Hal yang perlu di ingat, pembayaran di tempat ini sekarang menggunakan kartu khusus. Anda bisa melakukan top up atau isi ulang kartu dengan nilai tertentu. Nah kartu inilah yang nantinya  digunakan untuk membayar wahana permainan dan juga makanan disini.\n\nDisarankan untuk mengisi saldo kartu secukupnya saja, jika kurang baru anda lakukan top up saldo tambahan.",
+      "image": "https://www.nativeindonesia.com/wp-content/uploads/2019/03/tempat-istirahat-di-floating-market.jpg",
+      "latitude" : "-6.8187",
+      "longitude" : "107.6184"
+    },
+    {
+      "name": "The Lodge Maribaya Bandung",
+      "location": "Jl. No. 149/252 RT. 03 / RW. 15 Babakan, Gentong, Cibodas, Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",
+      "description": "info Harga Tiket Masuk Tempat Wisata di Lembang Bandung & Biaya Penginapan Hotel/Villa Terdekat Tempat Wisata, Camping Ground, Glamping PLUS Jam Buka Operasional, Alamat, Lokasi, Rute Jalan Menuju, Nomor Telepon & Review Harga Tiket Wahana Baru The Lodge Maribaya. Di tempat ini kita bisa menikmati suasana indah hutan pinus, dan berbagai tempat untuk selfie yang keren banget.\n\nBeberapa yang paling sering muncul di timeline seperti spot selfie berupa ayunan dengan background hutan pinus, dan juga balon udara.",
+      "image": "https://tempatwisatadibandung.info/wp-content/uploads/2017/07/the-lodge-maribaya-lembang-bandung-2.jpg",
+      "latitude" : "-6.8294",
+      "longitude" : "107.6875"
+    },
+    {
+      "name": "Curug Cimahi",
+      "location": "Jl. Kolonel Masturi No.325, Kertawangi, Kec. Cisarua, Kabupaten Bandung Barat, Jawa Barat 40551",
+      "description": "Curug Cimahi – Kota Bandung yang secara Geografis dikelilingi oleh Pegunungan,telah menciptakan aneka Tempat Wisata Di Bandung yang mempunyai ciri khas alam pegunungan,Salah satunya adalah keberadaan wisata air terjun yang saat ini sedang ramai jadi tujuan wisata favorit baru di kalangan wisatawan lokal, nusantara dan mancanagera, yakni air terjun Curug Cimahi, dibelakang air terjun diterangi dengan lampu warna-warni. Sekarang tempat ini dikenal juga dengan nama air terjun pelangi. Unik dan indah juga lho..",
+      "image": "https://tempatwisatadibandung.info/wp-content/uploads/Curug-Cimahi.jpg",
+      "latitude" : "-6.7993",
+      "longitude" : "107.5775"
+    },
+    {
       "name": "Dusun Bambu Lembang",
       "location": "Jl. Kolonel Masturi No.KM, Kertawangi, Kec. Cisarua, Kabupaten Bandung Barat, Jawa Barat 40551",
       "description": "Dusun Bambu cocok sekali menjadi tujuan wisata keluarga di Bandung. Di dusun bambu terdapat berbagai area permainan, restoran, cafe, dan pujasera dengan berbagai pilihan kuliner, taman bunga, villa dan glamping, dan lain-lain..\r\n",
@@ -9,42 +33,10 @@
       "longitude" : "107.5788"
     },
     {
-      "name": "Floating Market Lembang",
-      "location": "Jl. Grand Hotel No.33E, Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",
-      "description": "Floating Market Lembang wajib untuk anda kunjungi jika berlibur ke Bandung. Berada di daerah Lembang, suasananya adem banget.\n\nDi Floating market anda bisa menemukan berbagai wahana permainan, kuliner, dan spot indah untuk berfoto. Tempat ini sudah populer sebelum dusun bambu ataupun floating market beroperasi.\r\n\r\n\r\n",
-      "image": "https://4.bp.blogspot.com/-fzUpASRODaw/WMZrwpGghgI/AAAAAAAAAVI/MkDK0j1jBfA9ikD5DArM8ND2iDwDMpVhQCLcB/s1600/floating-market-bandung.jpg",
-      "latitude" : "-6.8187",
-      "longitude" : "107.6184"
-    },
-    {
-      "name": "The Lodge Maribaya Bandung",
-      "location": "Jl. No. 149/252 RT. 03 / RW. 15 Babakan, Gentong, Cibodas, Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",
-      "description": "Berada di kawasan Cibodas Lembang, The Lodge Maribaya bisa dikatakan salah satu tempat favorit di Lembang saat ini. Di tempat ini kita bisa menikmati suasana indah hutan pinus, dan berbagai tempat untuk selfie yang keren banget.\n\nBeberapa yang paling sering muncul di timeline seperti spot selfie berupa ayunan dengan background hutan pinus, dan juga balon udara.",
-      "image": "https://assets2.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/A84A9BE00FE94182900B95074899BE19/thelodge2.jpg",
-      "latitude" : "-6.8294",
-      "longitude" : "107.6875"
-    },
-    {
-      "name": "Museum Geologi Bandung",
-      "location": "Jl. Diponegoro No.57, Cihaur Geulis, Kec. Cibeunying Kaler, Kota Bandung, Jawa Barat 40122",
-      "description": "Tempat wisata edukasi ini terletak di jalan Diponegoro, sangat dekat dengan Gedung Sate dan Taman Lansia. Museum ini memiliki koleksi fosil, bebatuan, mineral dan peta (geologi, geofisika, gunung api, geomorfologi, dsb) yang dipastikan dapat menarik rasa ingin tahu pengunjung anak-anak bahkan dewasa.\n\nMungkin hal yang paling menarik di museum ini bagi pengunjung anak-anak adalah fosil-fosil replika dari binatang purba, terutama fosil dinosaurus.",
-      "image": "https://www.wisataidn.com/wp-content/uploads/2020/07/Lokasi-Museum-Geologi-Bandung-750x450.jpg",
-      "latitude" : "-6.9007",
-      "longitude" : "107.6215"
-    },
-    {
-      "name": "Curug Cimahi",
-      "location": "Jl. Kolonel Masturi No.325, Kertawangi, Kec. Cisarua, Kabupaten Bandung Barat, Jawa Barat 40551",
-      "description": "Curug cimahi merupakan salah satu wisata alam alternatif yang dekat serta mudah dijangkau, namun masih banyak orang yang tidak tahu. Meskipun namanya curug cimahi, tapi air terjun ini malahan terletak tidak jauh dari lembang.\n\nSuasana di area curug cimahi Bandung alami dan tertata baik, anda bisa menikmati air terjun yang tinggi dengan air yang jernis, plus suasana alami yang indah.\n\nDi malam hari, dibelakang air terjun diterangi dengan lampu warna-warni. Sekarang tempat ini dikenal juga dengan nama air terjun pelangi. Unik dan indah juga lho..",
-      "image": "https://trip.web.id/wp-content/uploads/2015/12/curug-cimahi.jpg",
-      "latitude" : "-6.7993",
-      "longitude" : "107.5775"
-    },
-    {
       "name": "Tebing Keraton Bandung",
       "location": "Ciburial, Cimenyan, Bandung Barat, Jawa Barat 40198",
-      "description": "Tebing keraton bandung merupakan tempat wisata yang baru dikenal akhir-akhir ini. tempat ini dikenal awalnya dari media sosial , hingga akhirnya berkembang jadi tempat wisata alam yang unik.\n\nTebing keraton Bandung terletak di area taman hutan raya juanda, tempat ini dikenal juga dengan nama tebing selfie karena banyaknya foto selfie yang dilakukan ditempat ini.",
-      "image": "https://www.superadventure.co.id/uploads/news/2016/03/23/841b1e01a90a.jpg",
+      "description": "Tebing Keraton atau lebih dikenal dengan Tebing Keraton berada di ketinggian 1200 mdpl. Tebing ini menawarkan keindahan alam dari jejeran hutan pinus. Selain itu saat dari tebing ini, hamparan keindahan kota Bandung bisa terlihat lebih apik. Tempat wisata yang sangat cocok bagi pencinta kegiatan alam..\n\nTebing keraton Bandung terletak di area taman hutan raya juanda, tempat ini dikenal juga dengan nama tebing selfie karena banyaknya foto selfie yang dilakukan ditempat ini.",
+      "image": "https://travelspromo.com/wp-content/uploads/2019/05/Pemandangan-tebing-keraton-lembang-Lukman-Hakim-768x480.jpg",
       "latitude" : "-6.8341",
       "longitude" : "107.6636"
     },
@@ -60,9 +52,17 @@
       "name": "Kampung Gajah Wonderland",
       "location": "Jl. Sersan Bajuri KM. 3,8 Cihideung Parongpong, Cihideung, Bandung Barat, Kabupaten Bandung Barat, Jawa Barat 40559",
       "description": "Kampung Gajah Wonderland tempatnya ada di jalan sersan bajuri KM 3.8,Parongpong, Bandung Barat. Jika anda menuju ke Lembang via rute alternatif jalan sersan bajuri, pasti bakal melewati tempat ini.\n\nDisini terdapat banyak wahana permainan yang lengkap, mulai dari adventure sampai dengan wahana air dengan ombak buatan. Cocok untuk tujuan wisata keluarga di Bandung.",
-      "image": "https://www.wisataterdekat.com/wp-content/uploads/2018/11/kampunggajahwonderland1.jpg",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2019/11/10/dcb5f169-a12f-4c03-a6b5-9f0f9ec8d2fd_169.jpeg?w=780&q=90",
       "latitude" : "-6.8294",
       "longitude" : "107.5955"
+    },
+    {
+      "name": "Museum Geologi Bandung",
+      "location": "Jl. Diponegoro No.57, Cihaur Geulis, Kec. Cibeunying Kaler, Kota Bandung, Jawa Barat 40122",
+      "description": "Tempat wisata edukasi ini terletak di jalan Diponegoro, sangat dekat dengan Gedung Sate dan Taman Lansia. Museum ini memiliki koleksi fosil, bebatuan, mineral dan peta (geologi, geofisika, gunung api, geomorfologi, dsb) yang dipastikan dapat menarik rasa ingin tahu pengunjung anak-anak bahkan dewasa.\n\nMungkin hal yang paling menarik di museum ini bagi pengunjung anak-anak adalah fosil-fosil replika dari binatang purba, terutama fosil dinosaurus.",
+      "image": "https://www.wisataidn.com/wp-content/uploads/2020/07/Lokasi-Museum-Geologi-Bandung-750x450.jpg",
+      "latitude" : "-6.9007",
+      "longitude" : "107.6215"
     },
     {
       "name": "Ranca Upas Ciwidey",
